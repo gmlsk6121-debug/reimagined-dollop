@@ -57,6 +57,6 @@ rebound-predictor-mini/
 
 ## ✍️ 작성자
 
-- GitHub: [본인 GitHub 아이디 입력]
+- GitHub: dnf1202
 - 작성일: 2026-01-11
 
